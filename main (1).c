@@ -1,5 +1,3 @@
-
-
 //Peça uma letra e diga se é vogal ou consoante.
 //2. converte uma letra em maiuscula.
 
