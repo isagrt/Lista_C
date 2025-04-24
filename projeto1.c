@@ -5,7 +5,6 @@
 //3. Peça uma letra e diga se ela é maiúscula ou minúscula.
 //4. Inverta a letra digitada: se fr msiuscula transforma em maiuscula e se for miniscula tranforma em maiuscula.
 
-
 #include <stdio.h>
 #include <ctype.h>
 
