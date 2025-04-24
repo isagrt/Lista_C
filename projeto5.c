@@ -6,6 +6,7 @@
 #include <stdio.h>
 #include <ctype.h>
 
+
 int main() {
   float n1, n2, result;
   char operador;
